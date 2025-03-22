@@ -9,7 +9,7 @@ To enhance my cybersecurity skills, I have built a home lab using VirtualBox as 
 
 <h2>Utilities Used</h2>
 
-- <b>VirtualBox</b> 
+- <b>Oracle VirtualBox</b> 
   
 
 <h2>Environments Used </h2>
