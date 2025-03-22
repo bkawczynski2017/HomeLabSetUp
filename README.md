@@ -17,7 +17,7 @@ To enhance my cybersecurity skills, I have built a home lab using VirtualBox as 
 - <b>Windows 10</b> 
 - <b>Kali Linux</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 <h3>Windows VM Setup</h3>
 
 <p align="center">
